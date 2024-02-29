@@ -1,4 +1,4 @@
-﻿# 2FA-authentication-using-NodeJs
+﻿# 2FA-authentication📲-using-NodeJs🚀
 ## Description
 2FA- Auth. is created using Node js -- Dependencies like **Express speakeasy UUID**
 ## Follow the steps to install all the dependencies in your machine to set up the project
