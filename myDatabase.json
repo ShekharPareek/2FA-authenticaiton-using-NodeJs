@@ -1,0 +1,22 @@
+{
+    "user": {
+        "d78c62e7-0e73-4f60-8b6e-7e46376e8ce2": {
+            "id": "d78c62e7-0e73-4f60-8b6e-7e46376e8ce2",
+            "secret": {
+                "ascii": "aLGVtsLSkz9H#]/{9LGcZcn&ht<)n!:X",
+                "hex": "614c475674734c536b7a3948235d2f7b394c47635a636e2668743c296e213a58",
+                "base32": "MFGEOVTUONGFG232HFECGXJPPM4UYR3DLJRW4JTIOQ6CS3RBHJMA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=MFGEOVTUONGFG232HFECGXJPPM4UYR3DLJRW4JTIOQ6CS3RBHJMA"
+            }
+        },
+        "514caa3e-1d53-4996-88cc-606f6fba6b05": {
+            "id": "514caa3e-1d53-4996-88cc-606f6fba6b05",
+            "secret": {
+                "ascii": "@l0C)3*DF!z5:DtzSz8JMn!oeb}TpDMi",
+                "hex": "406c304329332a4446217a353a44747a537a384a4d6e216f65627d5470444d69",
+                "base32": "IBWDAQZJGMVEIRRBPI2TURDUPJJXUOCKJVXCC33FMJ6VI4CEJVUQ",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=IBWDAQZJGMVEIRRBPI2TURDUPJJXUOCKJVXCC33FMJ6VI4CEJVUQ"
+            }
+        }
+    }
+}
